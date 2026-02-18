@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Rama Kumari
 
-<!--
-**konchada10082007-spec/konchada10082007-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AIML) Student  
+💻 DSA Enthusiast (128+ LeetCode Problems)  
+🐍 Python | C++ | Java  
+📊 Interested in Software Development & Machine Learning  
 
-Here are some ideas to get you started:
+## 🚀 Current Goals
+- Solve 200+ LeetCode problems
+- Contribute to Open Source
+- Prepare for Top MNC Internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/rama-kumari-konchada-037a7139a/
+- LeetCode: https://leetcode.com/u/Rama_kumari_8685/
+
